@@ -7,7 +7,7 @@ class TestNavigation:
 
     def test_go_to_account_from_main_page(self, browser):
 
-            # Проверяет переход с главной страницы в личный кабинет
+
 
         browser.find_element(*AuthLocators.ACCOUNT_BUTTON).click()
         WebDriverWait(browser, 10).until(
@@ -16,7 +16,7 @@ class TestNavigation:
 
     def test_go_to_constructor_from_account_on_button(self, browser):
 
-            # Проверяет переход из личного кабинета в конструктор
+
 
         browser.find_element(*MainPageLocators.CONSTRUCTOR_BUTTON).click()
         WebDriverWait(browser, 10).until(
@@ -25,7 +25,7 @@ class TestNavigation:
 
     def test_go_to_constructor_from_account_on_logo(self, browser):
 
-            # Проверяет переход из личного кабинета на главную страницу через клик по логотипу
+
 
         browser.find_element(*MainPageLocators.LOGO_MAIN).click()
         WebDriverWait(browser, 10).until(

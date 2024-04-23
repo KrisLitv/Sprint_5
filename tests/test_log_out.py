@@ -3,11 +3,12 @@ from selenium.webdriver.support.wait import WebDriverWait
 from locators import AuthLocators
 from settings import login
 
+
 class TestLogOut:
 
     def test_logout_from_account_page(self, browser):
 
-            # Проверяет выход из аккаунта из личного кабинета
+
 
         browser.find_element(*AuthLocators.LOGIN_ACCOUNT_BUTTON).click()
         login(browser)
@@ -19,4 +20,5 @@ class TestLogOut:
         WebDriverWait(browser, 10).until(
             expected_conditions.visibility_of_element_located(AuthLocators.LOGIN_BUTTON_LOGIN))
         assert browser.find_element(*AuthLocators.HEADING_ON_LOG_IN_PAGE).text == "Вход"
+
 

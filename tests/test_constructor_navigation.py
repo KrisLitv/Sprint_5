@@ -7,7 +7,7 @@ class TestConstructorNavigation:
 
     def test_const_go_to_toppings(self, browser):
 
-            # Проверяет переход к разделу "Начинки" в конструкторе
+
 
         browser.find_element(*MainPageLocators.FILLER_BUTTON).click()
         WebDriverWait(browser, 10).until(
@@ -17,7 +17,7 @@ class TestConstructorNavigation:
 
     def test_const_go_to_sauces(self, browser):
 
-            # Проверяет переход к разделу "Соусы" в конструкторе
+
 
         browser.find_element(*MainPageLocators.SAUCES_BUTTON).click()
         WebDriverWait(browser, 10).until(
@@ -27,7 +27,7 @@ class TestConstructorNavigation:
 
     def test_const_go_to_buns(self, browser):
 
-            # Проверяет переход к разделу "Булки" в конструкторе
+
 
         browser.find_element(*MainPageLocators.FILLER_BUTTON).click()
         browser.find_element(*MainPageLocators.BUNS_BUTTON).click()

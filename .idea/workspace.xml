@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf1de724-38c2-4595-b586-8dbc92c478d3" name="Changes" comment="5">
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_constructor_navigation.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_constructor_navigation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_log_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_log_in.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_log_out.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_log_out.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_navigation.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_navigation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_registration.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/qa_python" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2e2vebJpN7JOCm9ehsUfTSygtwb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for TestDog.TestDog.executor": "Run",
+    "Python tests.Python tests for TestDog.test_check_user_name.executor": "Run",
+    "Python tests.Python tests for chernovik_tests.TestBooksCollector.executor": "Run",
+    "Python tests.Python tests for precode_1.TestHobbitsPriorityStatus.executor": "Run",
+    "Python tests.Python tests for precode_1.TestHobbitsPriorityStatus.test_priority_status.executor": "Run",
+    "Python tests.Python tests for precode_2.TestHobbitsPriorityStatus.executor": "Run",
+    "Python tests.Python tests for precode_2.TestHobbitsPriorityStatus.test_add_miles_and_check_status.executor": "Run",
+    "Python tests.Python tests for precode_3.TestHobbitsPriorityStatus.executor": "Run",
+    "Python tests.Python tests for precode_3.TestHobbitsPriorityStatus.test_add_miles_and_check_status.executor": "Run",
+    "Python tests.Python tests for test_constructor_navigation.TestConstructorNavigation.executor": "Run",
+    "Python tests.Python tests for test_constructor_navigation.TestConstructorNavigation.test_const_go_to_buns.executor": "Run",
+    "Python tests.Python tests for test_constructor_navigation.TestConstructorNavigation.test_const_go_to_toppings.executor": "Run",
+    "Python tests.Python tests for test_log_in.TestLogin.executor": "Run",
+    "Python tests.Python tests for test_log_in.TestLogin.test_login_from_main_page.executor": "Run",
+    "Python tests.Python tests for test_log_in.TestLogin.test_login_from_recovery_page.executor": "Run",
+    "Python tests.Python tests for test_log_out.TestLogOut.executor": "Run",
+    "Python tests.Python tests for test_login_page.test_negative_input.executor": "Run",
+    "Python tests.Python tests for test_navigation.TestNavigation.executor": "Run",
+    "Python tests.Python tests for test_navigation.TestNavigation.test_go_to_constructor_from_account_on_logo.executor": "Run",
+    "Python tests.Python tests for test_registration.TestLogin.executor": "Run",
+    "Python tests.Python tests for test_registration.TestLogin.test_login_on_homepage.executor": "Run",
+    "Python tests.Python tests for test_registration.TestRegistration.executor": "Run",
+    "Python tests.Python tests for test_registration.TestRegistration.test_registration_failed_error.executor": "Run",
+    "Python tests.Python tests for test_registration.TestRegistration.test_registration_success_by_password_more_then_six_symbols.executor": "Run",
+    "Python tests.Python tests for test_registration.TestRegistration.test_registration_success_by_password_six_symbols.executor": "Run",
+    "Python tests.Python tests for test_registration.TestStellarBurgers.executor": "Run",
+    "Python tests.Python tests for test_registration.TestStellarBurgers.test_login.executor": "Run",
+    "Python tests.Python tests for test_registration.TestStellarburgersRegistration.test_registration.executor": "Run",
+    "Python tests.Python tests for test_salary.TestSalaryService.test_calculate_salary_when_over_limit.executor": "Run",
+    "Python tests.Python tests for test_salary.TestSalaryService.test_calculate_salary_when_under_limit.executor": "Run",
+    "Python tests.Python tests for test_user_rights.test_user_rights.executor": "Run",
+    "Python tests.Python tests for tests.TestBooksCollector.executor": "Run",
+    "Python tests.Python tests for tests.TestBooksCollector.test_add_new_book_add_two_books.executor": "Run",
+    "Python tests.Python tests for tests_chernovik.TestBooksCollector.executor": "Run",
+    "Python tests.Python tests for tests_chernovik.TestBooksCollector.test_add_book_in_favorites.executor": "Run",
+    "Python tests.Python tests for tests_chernovik.test_add_new_book.executor": "Run",
+    "Python tests.Python tests for tests_chernovik.test_add_new_book_add_two_books.executor": "Run",
+    "Python tests.Python tests for tests_chernovik.test_delete_book_from_favorites.executor": "Run",
+    "Python tests.Python tests for tests_chernovik.test_get_books_for_children.executor": "Run",
+    "Python tests.Python tests for tests_chernovik.test_get_list_of_favorites_books.executor": "Run",
+    "Python tests.Python tests in 1.py.executor": "Run",
+    "Python tests.Python tests in TestDog.py.executor": "Run",
+    "Python tests.Python tests in chernovik_tests.py.executor": "Run",
+    "Python tests.Python tests in precode_1.py.executor": "Run",
+    "Python tests.Python tests in precode_2.py.executor": "Run",
+    "Python tests.Python tests in precode_3.py.executor": "Run",
+    "Python tests.Python tests in test_company.py.executor": "Run",
+    "Python tests.Python tests in test_constructor_navigation.py.executor": "Run",
+    "Python tests.Python tests in test_log_in.py.executor": "Run",
+    "Python tests.Python tests in test_log_out.py.executor": "Run",
+    "Python tests.Python tests in test_navigation.py.executor": "Run",
+    "Python tests.Python tests in test_registration.py.executor": "Run",
+    "Python tests.Python tests in test_user_rights.py.executor": "Run",
+    "Python tests.Python tests in tests.py.executor": "Run",
+    "Python tests.Python tests in tests_chernovik.py.executor": "Run",
+    "Python tests.Python tests in training.py.executor": "Run",
+    "Python.1.executor": "Run",
+    "Python.Selenium WebDriver.executor": "Run",
+    "Python.TestDog.executor": "Run",
+    "Python.company.executor": "Run",
+    "Python.conftest.executor": "Run",
+    "Python.connect_selenium_in_pycharm.executor": "Run",
+    "Python.filling_in_the_input_field.executor": "Run",
+    "Python.find_element_exercise_1.executor": "Run",
+    "Python.find_element_exercise_2.executor": "Run",
+    "Python.find_element_exercise_3.executor": "Run",
+    "Python.find_elements_exercise_3(for training).executor": "Run",
+    "Python.for_train.executor": "Run",
+    "Python.get_text.executor": "Run",
+    "Python.go_to_element.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main_chernovik.executor": "Run",
+    "Python.miles.executor": "Run",
+    "Python.open_and_close_page.executor": "Run",
+    "Python.page_object_method2.executor": "Run",
+    "Python.page_object_registration_locator.executor": "Run",
+    "Python.practice_exercise_1.executor": "Run",
+    "Python.practice_exercise_2.executor": "Run",
+    "Python.practice_exercise_3.executor": "Run",
+    "Python.precode_1.executor": "Run",
+    "Python.precode_2.executor": "Run",
+    "Python.salary.executor": "Run",
+    "Python.settings.executor": "Run",
+    "Python.test_login_page.executor": "Run",
+    "Python.tests.executor": "Run",
+    "Python.training (1).executor": "Run",
+    "Python.training.executor": "Run",
+    "Python.trenirivka.executor": "Run",
+    "Python.work_with_cookies_exercise_1.executor": "Run",
+    "Python.сlick_on_an_element.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/pythonProject4/sprint5/SPRNT5",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\pythonProject4\sprint5\SPRNT5" />
+      <recent name="C:\Users\user\PycharmProjects\pythonProject4\sprint5" />
+      <recent name="C:\Users\user\PycharmProjects\pythonProject4\QA_Sprint_5" />
+      <recent name="C:\Users\user\PycharmProjects\pythonProject4\tests" />
+      <recent name="C:\Users\user\PycharmProjects\pythonProject4\qa_python" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\pythonProject4" />
+      <recent name="C:\Users\user\PycharmProjects\pythonProject4\Sprint5" />
+      <recent name="C:\Users\user\PycharmProjects\pythonProject4\qa_python_tasks-main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in test_log_out.py">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for precode_1.TestHobbitsPriorityStatus.test_priority_status" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="pythonProject4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_first_python_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;precode_1.TestHobbitsPriorityStatus.test_priority_status&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_log_in.TestLogin.test_login_from_main_page" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_log_in.TestLogin.test_login_from_main_page&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_constructor_navigation.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_constructor_navigation.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_log_in.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_log_in.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_log_out.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_log_out.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_navigation.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_navigation.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in test_log_out.py" />
+        <item itemvalue="Python tests.Python tests in test_log_in.py" />
+        <item itemvalue="Python tests.Python tests for test_log_in.TestLogin.test_login_from_main_page" />
+        <item itemvalue="Python tests.Python tests in test_navigation.py" />
+        <item itemvalue="Python tests.Python tests in test_constructor_navigation.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf1de724-38c2-4595-b586-8dbc92c478d3" name="Changes" comment="" />
+      <created>1711115586140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711115586140</updated>
+    </task>
+    <task id="LOCAL-00001" summary="new_commit">
+      <option name="closed" value="true" />
+      <created>1711473287157</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711473287157</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new_commit">
+      <option name="closed" value="true" />
+      <created>1712780649859</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712780649859</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new_commit">
+      <option name="closed" value="true" />
+      <created>1712780873530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712780873530</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new_commit">
+      <option name="closed" value="true" />
+      <created>1712780895320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712780895320</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new_commit">
+      <option name="closed" value="true" />
+      <created>1712781173203</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712781173203</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new_commit">
+      <option name="closed" value="true" />
+      <created>1712781190873</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712781190873</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new_commit">
+      <option name="closed" value="true" />
+      <created>1712781426747</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712781426747</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new_commit">
+      <option name="closed" value="true" />
+      <created>1712782480794</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712782480794</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new_commit">
+      <option name="closed" value="true" />
+      <created>1712782719113</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712782719113</updated>
+    </task>
+    <task id="LOCAL-00010" summary="new_commit">
+      <option name="closed" value="true" />
+      <created>1712783439148</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712783439148</updated>
+    </task>
+    <task id="LOCAL-00011" summary="new_commit">
+      <option name="closed" value="true" />
+      <created>1712783448924</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712783448924</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test">
+      <option name="closed" value="true" />
+      <created>1712812900992</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712812900992</updated>
+    </task>
+    <task id="LOCAL-00013" summary="добавила гитигнор">
+      <option name="closed" value="true" />
+      <created>1712817977842</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712817977842</updated>
+    </task>
+    <task id="LOCAL-00014" summary="добавила гитигнор">
+      <option name="closed" value="true" />
+      <created>1712818200581</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712818200581</updated>
+    </task>
+    <task id="LOCAL-00015" summary="добавила гитигнор">
+      <option name="closed" value="true" />
+      <created>1712819941050</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712819941050</updated>
+    </task>
+    <task id="LOCAL-00016" summary="добавила гитигнор">
+      <option name="closed" value="true" />
+      <created>1712823809090</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1712823809091</updated>
+    </task>
+    <task id="LOCAL-00017" summary="добавила гитигнор">
+      <option name="closed" value="true" />
+      <created>1712824821835</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1712824821835</updated>
+    </task>
+    <task id="LOCAL-00018" summary="echo &quot;# QA_Sprint_5-&quot; &gt;&gt;">
+      <option name="closed" value="true" />
+      <created>1712951887694</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1712951887694</updated>
+    </task>
+    <task id="LOCAL-00019" summary="echo &quot;# QA_Sprint_5-&quot; &gt;&gt;">
+      <option name="closed" value="true" />
+      <created>1713208248973</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1713208248973</updated>
+    </task>
+    <task id="LOCAL-00020" summary="echo &quot;# QA_Sprint_5-&quot; &gt;&gt;">
+      <option name="closed" value="true" />
+      <created>1713288027572</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1713288027572</updated>
+    </task>
+    <task id="LOCAL-00021" summary="echo &quot;# QA_Sprint_5-&quot; &gt;&gt;">
+      <option name="closed" value="true" />
+      <created>1713293513238</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1713293513238</updated>
+    </task>
+    <task id="LOCAL-00022" summary="echo &quot;# QA_Sprint_5-&quot;">
+      <option name="closed" value="true" />
+      <created>1713296574393</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1713296574393</updated>
+    </task>
+    <task id="LOCAL-00023" summary="QA_Sprint_5">
+      <option name="closed" value="true" />
+      <created>1713296844473</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1713296844474</updated>
+    </task>
+    <task id="LOCAL-00024" summary="QA_Sprint_5">
+      <option name="closed" value="true" />
+      <created>1713297316072</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1713297316072</updated>
+    </task>
+    <task id="LOCAL-00025" summary="5">
+      <option name="closed" value="true" />
+      <created>1713298532811</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1713298532811</updated>
+    </task>
+    <task id="LOCAL-00026" summary="5">
+      <option name="closed" value="true" />
+      <created>1713299029832</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1713299029832</updated>
+    </task>
+    <task id="LOCAL-00027" summary="5">
+      <option name="closed" value="true" />
+      <created>1713299503936</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1713299503936</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/tests" />
+    </ignored-roots>
+    <MESSAGE value="new_commit" />
+    <MESSAGE value="test" />
+    <MESSAGE value="добавила гитигнор" />
+    <MESSAGE value="echo &quot;# QA_Sprint_5-&quot; &gt;&gt;" />
+    <MESSAGE value="echo &quot;# QA_Sprint_5-&quot;" />
+    <MESSAGE value="QA_Sprint_5" />
+    <MESSAGE value="5" />
+    <option name="LAST_COMMIT_MESSAGE" value="5" />
+  </component>
+</project>
