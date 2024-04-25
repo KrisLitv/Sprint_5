@@ -6,15 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cf1de724-38c2-4595-b586-8dbc92c478d3" name="Changes" comment="5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_constructor_navigation.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_constructor_navigation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_log_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_log_in.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_log_out.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_log_out.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_navigation.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_navigation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_registration.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,11 +1,13 @@
 
 
 class TestUrls:
-    main_url = 'https://stellarburgers.nomoreparties.site/'
-    register_url = 'https://stellarburgers.nomoreparties.site/register'
-    login_url = 'https://stellarburgers.nomoreparties.site/login'
-    forgot_password_url = 'https://stellarburgers.nomoreparties.site/forgot-password'
 
+    base_url = 'https://stellarburgers.nomoreparties.site/'
+
+    main_url = base_url
+    register_url = base_url + 'register'
+    login_url = base_url + 'login'
+    forgot_password_url = base_url + 'forgot-password'
 class TestConstructorNavigationText:
     buns_navigation_text = 'Булки'
     sauces_navigation_text = 'Соусы'
