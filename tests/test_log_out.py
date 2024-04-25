@@ -1,7 +1,8 @@
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 from locators import AuthLocators
-from settings import login
+from helpers import login
+from conftest import browser
 
 
 class TestLogOut:
@@ -20,5 +21,4 @@ class TestLogOut:
         WebDriverWait(browser, 10).until(
             expected_conditions.visibility_of_element_located(AuthLocators.LOGIN_BUTTON_LOGIN))
         assert browser.find_element(*AuthLocators.HEADING_ON_LOG_IN_PAGE).text == "Вход"
-
 

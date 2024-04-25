@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf1de724-38c2-4595-b586-8dbc92c478d3" name="Changes" comment="5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_constructor_navigation.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_constructor_navigation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_log_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_log_in.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_log_out.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_log_out.py" afterDir="false" />
@@ -66,8 +68,10 @@
     "Python tests.Python tests for test_log_in.TestLogin.test_login_from_main_page.executor": "Run",
     "Python tests.Python tests for test_log_in.TestLogin.test_login_from_recovery_page.executor": "Run",
     "Python tests.Python tests for test_log_out.TestLogOut.executor": "Run",
+    "Python tests.Python tests for test_log_out.TestLogOut.test_logout_from_account_page.executor": "Run",
     "Python tests.Python tests for test_login_page.test_negative_input.executor": "Run",
     "Python tests.Python tests for test_navigation.TestNavigation.executor": "Run",
+    "Python tests.Python tests for test_navigation.TestNavigation.test_go_to_account_from_main_page.executor": "Run",
     "Python tests.Python tests for test_navigation.TestNavigation.test_go_to_constructor_from_account_on_logo.executor": "Run",
     "Python tests.Python tests for test_registration.TestLogin.executor": "Run",
     "Python tests.Python tests for test_registration.TestLogin.test_login_on_homepage.executor": "Run",
@@ -160,7 +164,7 @@
       <recent name="C:\Users\user\PycharmProjects\pythonProject4\qa_python_tasks-main" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_log_out.py">
+  <component name="RunManager" selected="Python tests.Python tests in test_navigation.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject4" />
       <option name="ENV_FILES" value="" />
@@ -198,7 +202,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_log_in.TestLogin.test_login_from_main_page" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_constructor_navigation.TestConstructorNavigation" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject4" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,11 +213,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_log_in.TestLogin.test_login_from_main_page&quot;" />
+      <option name="_new_target" value="&quot;test_constructor_navigation.TestConstructorNavigation&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_constructor_navigation.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_log_in.TestLogin" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject4" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,11 +228,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_constructor_navigation.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_log_in.TestLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_log_in.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_navigation.TestNavigation" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject4" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,23 +243,8 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_log_in.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in test_log_out.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject4" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_log_out.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_navigation.TestNavigation&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in test_navigation.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -273,13 +262,28 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in test_registration.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_registration.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_log_out.py" />
-        <item itemvalue="Python tests.Python tests in test_log_in.py" />
-        <item itemvalue="Python tests.Python tests for test_log_in.TestLogin.test_login_from_main_page" />
         <item itemvalue="Python tests.Python tests in test_navigation.py" />
-        <item itemvalue="Python tests.Python tests in test_constructor_navigation.py" />
+        <item itemvalue="Python tests.Python tests in test_registration.py" />
+        <item itemvalue="Python tests.Python tests for test_log_in.TestLogin" />
+        <item itemvalue="Python tests.Python tests for test_constructor_navigation.TestConstructorNavigation" />
+        <item itemvalue="Python tests.Python tests for test_navigation.TestNavigation" />
       </list>
     </recent_temporary>
   </component>

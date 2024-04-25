@@ -2,6 +2,7 @@ from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 from locators import MainPageLocators, AuthLocators
 from data import TestUrls
+from conftest import browser
 
 class TestNavigation:
 
@@ -31,4 +32,3 @@ class TestNavigation:
         WebDriverWait(browser, 10).until(
             expected_conditions.visibility_of_element_located(MainPageLocators.MAKE_BURGER_BANNER))
         assert browser.current_url == TestUrls.main_url
-

@@ -1,6 +1,8 @@
+
 from locators import AuthLocators
 from data import TestUrls
-from settings import login
+from helpers import login
+from conftest import browser
 
 class TestLogin:
 
@@ -38,4 +40,3 @@ class TestLogin:
         browser.find_element(*AuthLocators.LOGIN_BUTTON_RECOVERY).click()
         login(browser)
         assert browser.find_element(*AuthLocators.MAKE_ORDER_BUTTON).text == "Оформить заказ"
-

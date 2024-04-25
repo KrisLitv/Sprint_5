@@ -2,6 +2,7 @@ from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 from locators import MainPageLocators
 from data import TestConstructorNavigationText
+from conftest import browser
 
 class TestConstructorNavigation:
 
@@ -35,5 +36,4 @@ class TestConstructorNavigation:
             expected_conditions.visibility_of_element_located(MainPageLocators.BUNS_BANNER))
         current_navigation_text = browser.find_element(*MainPageLocators.CURRENT_TAB).text
         assert TestConstructorNavigationText.buns_navigation_text == current_navigation_text
-
 

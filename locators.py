@@ -21,17 +21,17 @@ class MainPageLocators:
 
 class AuthLocators:
 
-    NAME_INPUT_REGISTRATION = By.XPATH, ".//fieldset[1]//input"
-    EMAIL_INPUT_REGISTRATION = By.XPATH, ".//fieldset[2]//input"
-    PASSWORD_INPUT_REGISTRATION = By.NAME, "Пароль"
-    REGISTRATION_BUTTON = By.TAG_NAME, "button"
+    NAME_INPUT_REGISTRATION = By.XPATH, "//label[text() = 'Имя']/following-sibling::input"
+    EMAIL_INPUT_REGISTRATION = By.XPATH, "//label[text() = 'Email']/following-sibling::input"
+    PASSWORD_INPUT_REGISTRATION = By.XPATH, "//label[text() = 'Пароль']/following-sibling::input"
+    REGISTRATION_BUTTON = By.XPATH, "//button[text() = 'Зарегистрироваться']"
     LOGIN_BUTTON_REGISTRATION = By.XPATH, ".//a[text()='Войти']"
     PASSWORD_INPUT_ERROR_REGISTRATION = By.XPATH, ".//p[text()='Некорректный пароль']"
     LINK_TO_REGISTRATION_PAGE_FROM_ACCOUNT = By.XPATH, ".//a[@class = 'Auth_link__1fOlj']"
 
     LOGIN_ACCOUNT_BUTTON = By.XPATH, ".//button[text()='Войти в аккаунт']"
-    EMAIL_INPUT_LOGIN = By.XPATH, ".//fieldset[1]//input"
-    PASSWORD_INPUT_LOGIN = By.NAME, "Пароль"
+    EMAIL_INPUT_LOGIN = By.XPATH, "//input[@name = 'name']"
+    PASSWORD_INPUT_LOGIN = By.XPATH, "//input[@name = 'Пароль']"
     LOGIN_BUTTON_LOGIN = By.XPATH, ".//button[text()='Войти']"
     LOGIN_BANNER = By.XPATH, ".//h2[text()='Вход']"
     LOGIN_BUTTON_RECOVERY = By.XPATH, ".//a[text()='Войти']"
